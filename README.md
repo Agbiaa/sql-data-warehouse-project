@@ -1,5 +1,6 @@
 # sql-data-warehouse-project
 This project is a SQL Data Warehouse for an e-commerce company. The goal of the project is to organize and analyze sales data from multiple sources. The data is structured in a bronze, silver, and gold architecture:
+
   =>  Bronze: Raw data imported directly from CSV files (List_of_Orders, Order_Details, Sales_Target).
   
   ==> Silver: Cleaned and structured tables, including dimension tables (Dim_Clients, Dim_Products, Dim_Times, Dim_Targets) and the fact table (Fact_Sales).
