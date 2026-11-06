@@ -79,23 +79,8 @@ Les tableaux de bord Power BI permettent de visualiser plusieurs indicateurs et 
 
 La partie Data Mining permet également d'explorer les regroupements de transactions et les associations entre produits afin de mieux comprendre les comportements d'achat.
 
-## Captures d'écran du projet
 
-### 1. Modélisation en étoile
 
-![Schéma en étoile](screenshots/star_schema.png)
-
-### 2. Processus ETL
-
-![Processus ETL](screenshots/etl_process.png)
-
-### 3. Cube OLAP avec SSAS
-
-![Cube OLAP](screenshots/olap_cube.png)
-
-### 4. Tableau de bord Power BI
-
-![Tableau de bord Power BI](screenshots/powerbi_dashboard.png)
 
 ## Contenu du dépôt
 
@@ -117,12 +102,3 @@ Business-Intelligence-Sales-Delivery-Analysis/
     └── project_results.md
 ```
 
-**Remarque :** ce dépôt présente et documente un projet académique réalisé à partir du rapport original. Les fichiers d'implémentation et le code source du projet ne sont actuellement pas disponibles. Les captures d'écran et le rapport permettent de présenter les différentes étapes de réalisation.
-
-## Informations académiques
-
-- **Université :** Université Ibn Zohr – Faculté des Sciences, Agadir.
-- **Année universitaire :** 2025–2026.
-- **Module :** Informatique Décisionnelle (Business Intelligence).
-- **Encadrant :** Pr. Ait Lahcen Yassin.
-- **Réalisé par :** Rabiaa Agchar et Oussama Assraoui.
